@@ -23,4 +23,4 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y shellcheck
 
       - name: Run ShellCheck
-        run: shellcheck health.sh shellcheck config.sh shellcheck lib/*.sh
+        run: shellcheck health.sh config.sh lib/*.sh
