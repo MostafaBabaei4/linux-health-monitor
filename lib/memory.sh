@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 print_memory_info() {
     local total_memory
     local used_memory

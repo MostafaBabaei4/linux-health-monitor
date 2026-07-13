@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 print_cpu_info() {
     local cpu_cores
     local architecture

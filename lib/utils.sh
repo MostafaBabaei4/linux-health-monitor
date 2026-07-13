@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 print_header() {
     local current_date
     local hostname

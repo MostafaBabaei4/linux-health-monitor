@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 print_services() {
 
     print_section_header "Services"

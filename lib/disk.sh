@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 print_disk_info() {
     local total_disk
     local used_disk
